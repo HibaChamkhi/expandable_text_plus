@@ -1,9 +1,8 @@
 name: expandable_text_plus
 description: A customizable expandable text widget with "Read more / Read less" toggle for Flutter apps.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/HibaChamkhi/expandable_text_plus
 repository: https://github.com/HibaChamkhi/expandable_text_plus
-issue_tracker: https://github.com/HibaChamkhi/expandable_text_plus/issues
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
@@ -19,7 +18,9 @@ dev_dependencies:
   flutter_lints: ^5.0.0
 
 flutter:
-
-
   uses-material-design: true
+
+  assets:
+    - assets/
+
 

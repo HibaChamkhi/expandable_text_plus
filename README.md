@@ -4,6 +4,8 @@
 
 A Flutter widget that displays text which can be expanded or collapsed with a "Read more" / "Show less" link.
 
+![Logo](assets/image.png)
+
 ## Installation
 
 Add the following to your `pubspec.yaml`:
