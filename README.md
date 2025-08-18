@@ -1,5 +1,5 @@
 
-```markdown
+
 # expandable_text_plus
 
 A Flutter widget that displays text which can be expanded or collapsed with a "Read more" / "Show less" link.
@@ -12,11 +12,11 @@ A Flutter widget that displays text which can be expanded or collapsed with a "R
 
 Add the following to your `pubspec.yaml`:
 
-```yaml
+yaml
 dependencies:
   expandable_text_plus: ^1.0.0
   
-```dart
+dart
 ExpandableText(
   text: "This is a long text that will be truncated after 2 lines...",
   maxLines: 2,
